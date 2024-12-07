@@ -1,0 +1,3 @@
+/home/raiden/MyProjects/Custom-ASIC-Compiler/build/CMakeFiles/tracer.dir
+/home/raiden/MyProjects/Custom-ASIC-Compiler/build/CMakeFiles/edit_cache.dir
+/home/raiden/MyProjects/Custom-ASIC-Compiler/build/CMakeFiles/rebuild_cache.dir

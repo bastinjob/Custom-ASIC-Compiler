@@ -1,0 +1,14 @@
+{
+    "nodes": [
+        {
+            "op": "linear",
+            "inputs": ["input_tensor"],
+            "outputs": ["linear_out"]
+        },
+        {
+            "op": "relu",
+            "inputs": ["linear_out"],
+            "outputs": ["relu_out"]
+        }
+    ]
+}
